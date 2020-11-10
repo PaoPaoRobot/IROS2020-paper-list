@@ -10,7 +10,7 @@ IROS 2020 is **free** with access to every Technical Talk, Plenary and Keynote, 
 This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机器人](http://paopaorobot.org/), the Chinese academic nonprofit organization. Recently we will classify these papers by topics. Welcome to follow our github and our WeChat Public Platform Account ( [paopaorobot_slam](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=100000102&idx=1&sn=0a8a831a4f2c18443dbf436ef5d5ff8c&chksm=6c10bf625b6736748c9612879e166e510f1fe301b72ed5c5d7ecdd0f40726c5d757e975f37af&mpshare=1&scene=1&srcid=0530KxSLjUE9I38yLgfO2nVm&pass_ticket=0aB5tcjeTfmcl9u0eSVzN4Ag4tkpM2RjRFH8DG9vylE%3D#rd) ). Of course, you could contact with [**daiwei.song@outlook.com**](mailto://daiwei.song@outlook.com)
 
 
-| **download link** | title |
+| index | title |
 |---|---|
 | [0018](https://ras.papercept.net/proceedings/IROS20/0018.pdf) | ARAS: Ambiguity-Aware Robust Active SLAM Based on Multi-Hypothesis State and Map Estimations |
 | [0025](https://ras.papercept.net/proceedings/IROS20/0025.pdf) | Dynamic Attention-Based Visual Odometry |
@@ -132,7 +132,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [0304](https://ras.papercept.net/proceedings/IROS20/0304.pdf) | Virtual Reality for Robots |
 | [0309](https://ras.papercept.net/proceedings/IROS20/0309.pdf) | Design of a Linear Gravity Compensator for a Prismatic Joint |
 | [0311](https://ras.papercept.net/proceedings/IROS20/0311.pdf) | Applications of Stretch Reflex for the Upper Limb of Musculoskeletal Humanoids: Protective Behavior, Postural Stability, and Active Induction |
-| [0313](https://ras.papercept.net/proceedings/IROS20/0313.pdf) | Practical Veri&#64257;cation of Neural Network Enabled State Estimation System for Robotics |
+| [0313](https://ras.papercept.net/proceedings/IROS20/0313.pdf) | Practical Verification of Neural Network Enabled State Estimation System for Robotics |
 | [0314](https://ras.papercept.net/proceedings/IROS20/0314.pdf) | A Control Scheme for Haptic Inspection and Partial Modification of Kinematic Behaviors |
 | [0315](https://ras.papercept.net/proceedings/IROS20/0315.pdf) | Identification of Dynamic Parameters for Rigid Robots Based on Polynomial Approximation |
 | [0317](https://ras.papercept.net/proceedings/IROS20/0317.pdf) | SpoxelNet: Spherical Voxel-Based Deep Place Recognition for 3D Point Clouds of Crowded Indoor Spaces |
@@ -446,7 +446,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [1105](https://ras.papercept.net/proceedings/IROS20/1105.pdf) | End-to-End 3D Point Cloud Learning for Registration Task Using Virtual Correspondences |
 | [1108](https://ras.papercept.net/proceedings/IROS20/1108.pdf) | Safe Planning for Self-Driving Via Adaptive Constrained ILQR |
 | [1109](https://ras.papercept.net/proceedings/IROS20/1109.pdf) | Experimental flights of adaptive patterns for cloud exploration with UAVs |
-| [1114](https://ras.papercept.net/proceedings/IROS20/1114.pdf) | Learning to Live Life on the Edge: Online Learning for Data-Ef&#64257;cient Tactile Contour Following |
+| [1114](https://ras.papercept.net/proceedings/IROS20/1114.pdf) | Learning to Live Life on the Edge: Online Learning for Data-Efficient Tactile Contour Following |
 | [1116](https://ras.papercept.net/proceedings/IROS20/1116.pdf) | Supportive Actions for Manipulation in Human-Robot Coworker Teams |
 | [1118](https://ras.papercept.net/proceedings/IROS20/1118.pdf) | Model-Based Quality-Diversity Search for Efficient Robot Learning |
 | [1119](https://ras.papercept.net/proceedings/IROS20/1119.pdf) | Autonomous Planning for Multiple Aerial Cinematographers |
@@ -1402,7 +1402,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [3066](https://ras.papercept.net/proceedings/IROS20/3066.pdf) | Multi-Fingered Grasp Planning Via Inference in Deep Neural Networks |
 | [3067](https://ras.papercept.net/proceedings/IROS20/3067.pdf) | Collision Avoidance in Human-Robot Interaction Using Kinect Vision System Combined with Robotï¿½s Model and Data |
 | [3068](https://ras.papercept.net/proceedings/IROS20/3068.pdf) | Miniaturized robotics: The smallest camera operator bot pays tribute to David Bowie. |
-| [3070](https://ras.papercept.net/proceedings/IROS20/3070.pdf) | Development of &#916;-Type Mobile Robot Driven by 3 Standing Wave Type Piezoelectric Ultrasonic Motors |
+| [3070](https://ras.papercept.net/proceedings/IROS20/3070.pdf) | Development of Δ-Type Mobile Robot Driven by 3 Standing Wave Type Piezoelectric Ultrasonic Motors |
 | [3072](https://ras.papercept.net/proceedings/IROS20/3072.pdf) | Lyapunov-Stable Orientation Estimator for Humanoid Robots |
 | [3073](https://ras.papercept.net/proceedings/IROS20/3073.pdf) | UFOMap: An Efficient Probabilistic 3D Mapping Framework That Embraces the Unknown |
 | [3074](https://ras.papercept.net/proceedings/IROS20/3074.pdf) | Machine Learning for Active Gravity Compensation in Robotics: Application to Neurological Rehabilitation Systems |
@@ -1457,21 +1457,16 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [3137](https://ras.papercept.net/proceedings/IROS20/3137.pdf) | Continuously Variable Stiffness Mechanism Using Nonuniform Patterns on Coaxial Tubes for Continuum Microsurgical Robot |
 | [3138](https://ras.papercept.net/proceedings/IROS20/3138.pdf) | Achieving Versatile Energy Efficiency With the WANDERER Biped Robot |
 | [3139](https://ras.papercept.net/proceedings/IROS20/3139.pdf) | In Vitro Design Investigation of a Rotating Helical Magnetic Swimmer for Combined 3-D Navigation and Blood Clot Removal |
-| [3146](https://ras.papercept.net/proceedings/IROS20/3146.pdf) | WS-2374 Workshop Introduction - 12th IROS Workshop on Planning, Perception, Navigation for Intelligent Vehicle |
-| [3147](https://ras.papercept.net/proceedings/IROS20/3147.pdf) | WS-2374 Keynote 1 - Self-Supervised Learning for Perception Tasks in Automated Driving |
-| [3148](https://ras.papercept.net/proceedings/IROS20/3148.pdf) | WS-2374 Keynote 2 - Decision Making Architectures for Safe Planning and Control of Agile Autonomous Vehicles |
-| [3149](https://ras.papercept.net/proceedings/IROS20/3149.pdf) | WS-2374 Keynote 3 - Understanding Risk and Social Behavior Improves Decision Making for Autonomous Vehicles |
-| [3150](https://ras.papercept.net/proceedings/IROS20/3150.pdf) | WS-2374 Keynote 4 - Safe Autonomous Driving and Humans:Â Perception and Transitions |
-| [3151](https://ras.papercept.net/proceedings/IROS20/3151.pdf) | WS-2374 Talk 1 Marker-Based Mapping and Localization for Autonomous Valet Parking |
-| [3152](https://ras.papercept.net/proceedings/IROS20/3152.pdf) | WS-2374 Talk 2 - Parameter Optimization for Loop Closure Detection in ClosedÂ Environments |
-| [3153](https://ras.papercept.net/proceedings/IROS20/3153.pdf) | WS-2374 Talk 3 - Radar-Camera Sensor Fusion for Joint Object DetectionÂ and Distance Estimation in Autonomous Vehicles |
-| [3154](https://ras.papercept.net/proceedings/IROS20/3154.pdf) | WS-2374 Talk 4 - SalsaNext Fast Uncertainty-aware Semantic SegmentationÂ of LiDAR Point Clouds for Autonomous Driving |
-| [3155](https://ras.papercept.net/proceedings/IROS20/3155.pdf) | WS-2374 Talk 5 - SDVTracker Real-Time Multi-Sensor Association and Tracking forÂ Self-Driving Vehicles |
-| [3156](https://ras.papercept.net/proceedings/IROS20/3156.pdf) | WS-2374 Talk 6 - Situation Awareness at Autonomous Vehicle Handover - PreliminaryÂ Results of a Quantitative Analysis |
-| [3157](https://ras.papercept.net/proceedings/IROS20/3157.pdf) | WS-2374 Talk 7 - Towards Context-Aware Navigation forÂ Long-Term Autonomy in Agricultural Environments |
-| [3158](https://ras.papercept.net/proceedings/IROS20/3158.pdf) | WS-2374 Talk 8 - Efficient Sampling in POMDPs with Lipschitz BanditsÂ for Motion Planning in Continuous Spaces |
-| [3159](https://ras.papercept.net/proceedings/IROS20/3159.pdf) | WS-2374 Talk 9 - Impact of Traffic Lights on Trajectory Forecasting of Human-drivenÂ Vehicles Near Signalized Intersections |
-| [3161](https://ras.papercept.net/proceedings/IROS20/3161.pdf) | WS-2374 Talk 10 - Semantic Grid Map based LiDAR Localization in Highly DynamicÂ Urban Scenarios |
+| [3151](https://ras.papercept.net/proceedings/IROS20/3151.pdf) | Marker-Based Mapping and Localization for Autonomous Valet Parking |
+| [3152](https://ras.papercept.net/proceedings/IROS20/3152.pdf) | Parameter Optimization for Loop Closure Detection in ClosedÂ Environments |
+| [3153](https://ras.papercept.net/proceedings/IROS20/3153.pdf) | Radar-Camera Sensor Fusion for Joint Object DetectionÂ and Distance Estimation in Autonomous Vehicles |
+| [3154](https://ras.papercept.net/proceedings/IROS20/3154.pdf) | SalsaNext Fast Uncertainty-aware Semantic SegmentationÂ of LiDAR Point Clouds for Autonomous Driving |
+| [3155](https://ras.papercept.net/proceedings/IROS20/3155.pdf) | SDVTracker Real-Time Multi-Sensor Association and Tracking forÂ Self-Driving Vehicles |
+| [3156](https://ras.papercept.net/proceedings/IROS20/3156.pdf) | Situation Awareness at Autonomous Vehicle Handover - PreliminaryÂ Results of a Quantitative Analysis |
+| [3157](https://ras.papercept.net/proceedings/IROS20/3157.pdf) | Towards Context-Aware Navigation forÂ Long-Term Autonomy in Agricultural Environments |
+| [3158](https://ras.papercept.net/proceedings/IROS20/3158.pdf) | Efficient Sampling in POMDPs with Lipschitz BanditsÂ for Motion Planning in Continuous Spaces |
+| [3159](https://ras.papercept.net/proceedings/IROS20/3159.pdf) | Impact of Traffic Lights on Trajectory Forecasting of Human-drivenÂ Vehicles Near Signalized Intersections |
+| [3161](https://ras.papercept.net/proceedings/IROS20/3161.pdf) | Semantic Grid Map based LiDAR Localization in Highly DynamicÂ Urban Scenarios |
 | [3162](https://ras.papercept.net/proceedings/IROS20/3162.pdf) | Acquiring Mechanical Knowledge from 3D Point Clouds |
 | [3163](https://ras.papercept.net/proceedings/IROS20/3163.pdf) | Representation and Experience-Based Learning of Explainable Models for Robot Action Execution |
 | [3164](https://ras.papercept.net/proceedings/IROS20/3164.pdf) | Emergent Adaptive Gait Generation through Hebbian Sensor-Motor Maps by Morphological Probing |
@@ -1481,33 +1476,9 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [3168](https://ras.papercept.net/proceedings/IROS20/3168.pdf) | An Optimized Tilt Mechanism for a New Steady-Hand Eye Robot |
 | [3169](https://ras.papercept.net/proceedings/IROS20/3169.pdf) | Optimization-Based Hierarchical Motion Planning for Autonomous Racing |
 | [3170](https://ras.papercept.net/proceedings/IROS20/3170.pdf) | SwingBot: Learning Physical Features from In-Hand Tactile Exploration for Dynamic Swing-Up Manipulation |
-| [3171](https://ras.papercept.net/proceedings/IROS20/3171.pdf) | Workshop on Humanitarian Robotics - Introduction |
 | [3182](https://ras.papercept.net/proceedings/IROS20/3182.pdf) | Learning Visuomotor Policies for Aerial Navigation Using Cross-Modal Representations |
 | [3183](https://ras.papercept.net/proceedings/IROS20/3183.pdf) | Learning Vision-Based Physics Intuition Models for Non-Disruptive Object Extraction |
 | [3184](https://ras.papercept.net/proceedings/IROS20/3184.pdf) | Computational Design of Balanced Open Link Planar Mechanisms with Counterweights from User Sketches |
-| [3197](https://ras.papercept.net/proceedings/IROS20/3197.pdf) | Introduction to the Workshop on Animalï¿½Robot Interaction |
-| [3198](https://ras.papercept.net/proceedings/IROS20/3198.pdf) | Animal-Robot Interaction: Relevant Works at the Organizing Institution |
-| [3199](https://ras.papercept.net/proceedings/IROS20/3199.pdf) | Introducing the Invited Speakers |
-| [3200](https://ras.papercept.net/proceedings/IROS20/3200.pdf) | Zebrafish-Robot Interactions for Hypothesis-Driven Experiments in Behavioral Neuroscience |
-| [3201](https://ras.papercept.net/proceedings/IROS20/3201.pdf) | From proactive monitoring to ecosystem hacking: the role of robots in the ongoing ecosystem crisis  |
-| [3202](https://ras.papercept.net/proceedings/IROS20/3202.pdf) | Using Biorobots to Investigate Extant and Extinct Animal Locomotion |
-| [3203](https://ras.papercept.net/proceedings/IROS20/3203.pdf) | A Bio-Hybrid System to Shape Natural Plants |
-| [3204](https://ras.papercept.net/proceedings/IROS20/3204.pdf) | Animal&#8208;Robot Interactions: Introducing Robots into Groups of Weakly Electric Fish |
-| [3205](https://ras.papercept.net/proceedings/IROS20/3205.pdf) | Behavioural and life-history responses of mosquitofish to biologically inspired and interactive robotic predators |
-| [3206](https://ras.papercept.net/proceedings/IROS20/3206.pdf) | Socially Competent Robots: Real-time Adaptation Improves Leadership Performance in Groups of Live Fish |
-| [3207](https://ras.papercept.net/proceedings/IROS20/3207.pdf) | Hybrid Cognitive Agents: Dynamical Modeling of the Intelligent Behavior of Animals and Robots |
-| [3208](https://ras.papercept.net/proceedings/IROS20/3208.pdf) | Biomimetic fish robots as a tool in animal behavior research |
-| [3210](https://ras.papercept.net/proceedings/IROS20/3210.pdf) | Using an open-source robotic platform to investigate social and hunting behavior in banded archerfish |
-| [3211](https://ras.papercept.net/proceedings/IROS20/3211.pdf) | FishSim Animation Toolchain: an innovative tool pushing the boundaries of studies on fish Behavior |
-| [3212](https://ras.papercept.net/proceedings/IROS20/3212.pdf) | Computational and robotic modelling reveal parsimonious combinations of interactions between individuals in schooling fish |
-| [3213](https://ras.papercept.net/proceedings/IROS20/3213.pdf) | Introduction to Forum on Robotic Food Manipulation Challenge |
-| [3214](https://ras.papercept.net/proceedings/IROS20/3214.pdf) | Learning Food-arrangement Policies from Raw Images with Generative Adversarial Imitation Learning |
-| [3215](https://ras.papercept.net/proceedings/IROS20/3215.pdf) | Tactile Image Sensor for Food Inspection Tasks |
-| [3216](https://ras.papercept.net/proceedings/IROS20/3216.pdf) | Food Manipulation Competition Trials |
-| [3217](https://ras.papercept.net/proceedings/IROS20/3217.pdf) | Robotic Cutting: Mechanics and Knife Control |
-| [3218](https://ras.papercept.net/proceedings/IROS20/3218.pdf) | Human-Robot-Food Interaction |
-| [3236](https://ras.papercept.net/proceedings/IROS20/3236.pdf) | Task Planning with Belief Behavior Trees |
-| [3237](https://ras.papercept.net/proceedings/IROS20/3237.pdf) | The Marathon 2: A Navigation System |
 | [3238](https://ras.papercept.net/proceedings/IROS20/3238.pdf) | Relative Pose Estimation and Planar Reconstruction Via Superpixel-Driven Multiple Homographies |
 | [3239](https://ras.papercept.net/proceedings/IROS20/3239.pdf) | Real-Time Constrained Nonlinear Model Predictive Control on SO(3) for Dynamic Legged Locomotion |
 | [3240](https://ras.papercept.net/proceedings/IROS20/3240.pdf) | Combining Compliance Control, CAD Based Localization, and a Multi-Modal Gripper for Rapid and Robust Programming of Assembly Tasks |
@@ -1530,232 +1501,22 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [3257](https://ras.papercept.net/proceedings/IROS20/3257.pdf) | OceanVoy: A Hybrid Energy Planning System for Autonomous Sailboat |
 | [3258](https://ras.papercept.net/proceedings/IROS20/3258.pdf) | MHYRO: Modular HYbrid RObot for Contact Inspection and Maintenance in Oil&gas Plants |
 | [3259](https://ras.papercept.net/proceedings/IROS20/3259.pdf) | LLAMA: Design and Control of an Omnidirectional Human Mission Scale Quadrupedal Robot |
-| [3260](https://ras.papercept.net/proceedings/IROS20/3260.pdf) | Workshop on Bringing Geometric Methods to Robot Learning, Optimization and Control |
-| [3261](https://ras.papercept.net/proceedings/IROS20/3261.pdf) | Certifiable 3D Perception: from Geometry to Global Optimization and back (Luca Carlone) |
-| [3262](https://ras.papercept.net/proceedings/IROS20/3262.pdf) | Lie theory for the roboticist (Joan Sola) |
-| [3263](https://ras.papercept.net/proceedings/IROS20/3263.pdf) | Geometric methods for dynamic model-based robotics (Taeyoon Lee) |
-| [3264](https://ras.papercept.net/proceedings/IROS20/3264.pdf) | Complex Robotic Systems: Modeling, Control, and Planning using Dual Quaternion Algebra (Bruno Adorno) |
-| [3265](https://ras.papercept.net/proceedings/IROS20/3265.pdf) | Planning and Control on Riemannian Manifolds with Boundaries (Subhrajit Bhattacharya) |
-| [3266](https://ras.papercept.net/proceedings/IROS20/3266.pdf) | Planning for High-dimensional Robotic Systems by Solving Problems in Low-dimensional Manifolds (Maxim Likhachev) |
-| [3267](https://ras.papercept.net/proceedings/IROS20/3267.pdf) | State space representations for complex manipulation (Anastasiia Varava) |
-| [3268](https://ras.papercept.net/proceedings/IROS20/3268.pdf) | Structured policies for reactive motion generation (Mustafa Mukadam) |
-| [3269](https://ras.papercept.net/proceedings/IROS20/3269.pdf) | Lagrangian and Hamiltonian Mechanics for Probabilities on the Statistical Manifold (Luigi Malago) |
-| [3285](https://ras.papercept.net/proceedings/IROS20/3285.pdf) | WS-2375 Video 10 |
-| [3290](https://ras.papercept.net/proceedings/IROS20/3290.pdf) | Workshop on Ergonomic Human-Robot Collaboration: Opportunities and Challenges |
-| [3291](https://ras.papercept.net/proceedings/IROS20/3291.pdf) | Introduction |
-| [3292](https://ras.papercept.net/proceedings/IROS20/3292.pdf) | 3D Simulation and Validation of Collaborative Work Systems ï¿½ Safety, Ergonomics and Productivity Assessment with ï¿½ema Work Designerï¿½  |
-| [3293](https://ras.papercept.net/proceedings/IROS20/3293.pdf) | EPHRC2020_P2 - Predictive Biomechanics for Ergonomic Control in Human-Robot Interaction |
-| [3294](https://ras.papercept.net/proceedings/IROS20/3294.pdf) | Human-Robot Collaboration: From Low-Level Learning to High-Level Planning |
-| [3295](https://ras.papercept.net/proceedings/IROS20/3295.pdf) | Ergonomics in Human-Robot Co-Manipulation Control |
-| [3296](https://ras.papercept.net/proceedings/IROS20/3296.pdf) | Short presentation list |
-| [3297](https://ras.papercept.net/proceedings/IROS20/3297.pdf) | Ergonomic control of human-robot coexistence and collaboration |
-| [3298](https://ras.papercept.net/proceedings/IROS20/3298.pdf) | Improving workersï¿½ ergonomics by cobots and exoskeletons |
-| [3299](https://ras.papercept.net/proceedings/IROS20/3299.pdf) | Human-Centered Behavioral Analysis for Human-Robot Cooperation |
-| [3300](https://ras.papercept.net/proceedings/IROS20/3300.pdf) | Prediction and Optimization for Ergonomics Movement in Human-Robot Collaboration |
-| [3301](https://ras.papercept.net/proceedings/IROS20/3301.pdf) | Discussion |
-| [3305](https://ras.papercept.net/proceedings/IROS20/3305.pdf) | IROS 2020 Workshop on new advances in soft robots control |
-| [3306](https://ras.papercept.net/proceedings/IROS20/3306.pdf) | Soft Robotics and Morphological Computation |
-| [3307](https://ras.papercept.net/proceedings/IROS20/3307.pdf) | Fractional order control of a soft robotic neck |
-| [3308](https://ras.papercept.net/proceedings/IROS20/3308.pdf) | A gait pattern generator for closed-loop position control of a soft walking robot |
-| [3310](https://ras.papercept.net/proceedings/IROS20/3310.pdf) | Toward Understanding Design Principle Underlying Versatile Animal Behaviors |
-| [3311](https://ras.papercept.net/proceedings/IROS20/3311.pdf) | Self-healing soft robots |
-| [3312](https://ras.papercept.net/proceedings/IROS20/3312.pdf) | Soft upper limb exoskeletons |
-| [3313](https://ras.papercept.net/proceedings/IROS20/3313.pdf) | Closing the loop with embedded soft sensors |
-| [3314](https://ras.papercept.net/proceedings/IROS20/3314.pdf) | Trajectory Tracking of a One-Link Flexible Arm via Iterative Learning Control |
-| [3315](https://ras.papercept.net/proceedings/IROS20/3315.pdf) | Machine learning controllers for continuum and soft manipulators |
-| [3320](https://ras.papercept.net/proceedings/IROS20/3320.pdf) | WS-2399 Workshop Intro Video |
-| [3321](https://ras.papercept.net/proceedings/IROS20/3321.pdf) | Novel Body-Mounted MR-Compatible Robot for Shoulder Arthrography and Back Pain |
-| [3322](https://ras.papercept.net/proceedings/IROS20/3322.pdf) | Flexible, Patient-Specific Robotic Systems for Surgical Interventions |
-| [3323](https://ras.papercept.net/proceedings/IROS20/3323.pdf) | Safe Robot-assisted Retinal Surgery |
-| [3324](https://ras.papercept.net/proceedings/IROS20/3324.pdf) | Diagnosis System for Post-stroke Patients |
-| [3325](https://ras.papercept.net/proceedings/IROS20/3325.pdf) | Autonomy in Robotic Colonoscopy |
-| [3326](https://ras.papercept.net/proceedings/IROS20/3326.pdf) | Robot-Clinician Collaboration for Semi-Autonomous ComputerIntegrated Medicine |
-| [3327](https://ras.papercept.net/proceedings/IROS20/3327.pdf) | Visual and Tactile Sensing for Robotic-assisted Surgery |
-| [3328](https://ras.papercept.net/proceedings/IROS20/3328.pdf) | To be confirmed |
-| [3329](https://ras.papercept.net/proceedings/IROS20/3329.pdf) | To be confirmed |
-| [3330](https://ras.papercept.net/proceedings/IROS20/3330.pdf) | To be confirmed |
-| [3331](https://ras.papercept.net/proceedings/IROS20/3331.pdf) | To be confirmed |
-| [3332](https://ras.papercept.net/proceedings/IROS20/3332.pdf) | High-Precision Direct Cell Injection Robot in MRI |
-| [3333](https://ras.papercept.net/proceedings/IROS20/3333.pdf) | To be confirmed |
-| [3334](https://ras.papercept.net/proceedings/IROS20/3334.pdf) | To be confirmed |
-| [3335](https://ras.papercept.net/proceedings/IROS20/3335.pdf) | WS-2429 Workshop Intro Video |
-| [3336](https://ras.papercept.net/proceedings/IROS20/3336.pdf) | WS-2429 Video 1 |
-| [3337](https://ras.papercept.net/proceedings/IROS20/3337.pdf) | WS-2429 Video 2 |
-| [3338](https://ras.papercept.net/proceedings/IROS20/3338.pdf) | WS-2429 Video 3 |
-| [3339](https://ras.papercept.net/proceedings/IROS20/3339.pdf) | WS-2429 Video 4 |
-| [3340](https://ras.papercept.net/proceedings/IROS20/3340.pdf) | WS-2429 Video 5 |
-| [3341](https://ras.papercept.net/proceedings/IROS20/3341.pdf) | WS-2429 Video 6 |
-| [3342](https://ras.papercept.net/proceedings/IROS20/3342.pdf) | WS-2429 Video 7 |
-| [3343](https://ras.papercept.net/proceedings/IROS20/3343.pdf) | WS-2429 Video 8 |
-| [3344](https://ras.papercept.net/proceedings/IROS20/3344.pdf) | WS-2429 Video 9 |
-| [3345](https://ras.papercept.net/proceedings/IROS20/3345.pdf) | WS-2429 Video 10 |
-| [3350](https://ras.papercept.net/proceedings/IROS20/3350.pdf) | WS-2433 Workshop Intro Video |
-| [3351](https://ras.papercept.net/proceedings/IROS20/3351.pdf) | WS-2433 Prof. Thomas Daniel, University of Washington |
-| [3352](https://ras.papercept.net/proceedings/IROS20/3352.pdf) | WS-2433 Prof. Bob Full, University of California Berkeley |
-| [3353](https://ras.papercept.net/proceedings/IROS20/3353.pdf) | WS-2433 Prof. George Lauder, Harvard University |
-| [3354](https://ras.papercept.net/proceedings/IROS20/3354.pdf) | WS-2433 Prof. Brad Dickerson, University of North Carolina Chapel-Hill |
-| [3355](https://ras.papercept.net/proceedings/IROS20/3355.pdf) | WS-2433 Vani Sundaram, Grad Student, University of Colorado Boulder |
-| [3356](https://ras.papercept.net/proceedings/IROS20/3356.pdf) | WS-2433 Eugene Rush, Grad Student, University of Colorado Boulder |
-| [3357](https://ras.papercept.net/proceedings/IROS20/3357.pdf) | WS-2433 Prof. Rob Wood, Harvard University |
-| [3358](https://ras.papercept.net/proceedings/IROS20/3358.pdf) | WS-2433 Panel Discussion |
-| [3359](https://ras.papercept.net/proceedings/IROS20/3359.pdf) | WS-2433 Plenary Talk 1 |
-| [3360](https://ras.papercept.net/proceedings/IROS20/3360.pdf) | WS-2433 Plenary Talk 2 |
-| [3361](https://ras.papercept.net/proceedings/IROS20/3361.pdf) | WS-2433 Plenary Talk 3 |
-| [3362](https://ras.papercept.net/proceedings/IROS20/3362.pdf) | WS-2433 Plenary Talk 4 |
-| [3365](https://ras.papercept.net/proceedings/IROS20/3365.pdf) | Presentation of the Workshop "Robots Building Robots. Digital Manufacturing and Human-Centered Automation for Building Consumer Robots" |
-| [3366](https://ras.papercept.net/proceedings/IROS20/3366.pdf) | Introduction to the Workshop |
-| [3367](https://ras.papercept.net/proceedings/IROS20/3367.pdf) | Marco Controzzi |
-| [3368](https://ras.papercept.net/proceedings/IROS20/3368.pdf) | Francesco Ferro |
-| [3369](https://ras.papercept.net/proceedings/IROS20/3369.pdf) | Espen Knoop |
-| [3370](https://ras.papercept.net/proceedings/IROS20/3370.pdf) | Jeremy Ma |
-| [3371](https://ras.papercept.net/proceedings/IROS20/3371.pdf) | Giorgio Metta |
-| [3372](https://ras.papercept.net/proceedings/IROS20/3372.pdf) | Calogero Maria Oddo - Large-Area Sensorized Skins for Collaborative Robotics |
-| [3373](https://ras.papercept.net/proceedings/IROS20/3373.pdf) | Cesare Stefanini |
-| [3374](https://ras.papercept.net/proceedings/IROS20/3374.pdf) | Gentiane Venture |
-| [3375](https://ras.papercept.net/proceedings/IROS20/3375.pdf) | Live Panel Session-WS-2437 Video 10 |
-| [3380](https://ras.papercept.net/proceedings/IROS20/3380.pdf) | WS-2434 Workshop Intro Video |
-| [3381](https://ras.papercept.net/proceedings/IROS20/3381.pdf) | Interactive Session |
-| [3382](https://ras.papercept.net/proceedings/IROS20/3382.pdf) | Learning Action Rules in Surgery |
-| [3383](https://ras.papercept.net/proceedings/IROS20/3383.pdf) | Clinical, Practical, Social, and Ethical Implications in Surgical Robotics |
-| [3384](https://ras.papercept.net/proceedings/IROS20/3384.pdf) | Utilizing Clinically Relevant Performance Metrics (CROMs) in 3D Printing Procedural Models |
-| [3385](https://ras.papercept.net/proceedings/IROS20/3385.pdf) | Novel Sensing Techniques As Foundation for Autonomous Robotic Surgery |
-| [3386](https://ras.papercept.net/proceedings/IROS20/3386.pdf) | The SuPer and SuPer-Deep Framework |
-| [3387](https://ras.papercept.net/proceedings/IROS20/3387.pdf) | Computer Vision Developments for Surgical Perception at Wellcome/EPSRC Centre for Interventional and Surgical Sciences |
-| [3389](https://ras.papercept.net/proceedings/IROS20/3389.pdf) | Practical Issues in Machine Learning for Robotic Surgery |
-| [3395](https://ras.papercept.net/proceedings/IROS20/3395.pdf) | WS-2441 IROS 2020 Workshop "Application-Driven Soft Robotic Systems: Translational Challenges" - Introduction Video and Poster Presentations |
-| [3396](https://ras.papercept.net/proceedings/IROS20/3396.pdf) | WS-2441 IROS 2020 Workshop "Application-Driven Soft Robotic Systems: Translational Challenges" Video 1 - Professor Jamie Paik - EPFL - Ecole Polytechnique FÃ©dÃ©rale De Lausanne |
-| [3397](https://ras.papercept.net/proceedings/IROS20/3397.pdf) | WS-2441 IROS 2020 Workshop "Application-Driven Soft Robotic Systems: Translational Challenges" Video 2 - Dr. Jelizaveta Konstantinova, Ocado Technology |
-| [3399](https://ras.papercept.net/proceedings/IROS20/3399.pdf) | WS-2441 IROS 2020 Workshop "Application-Driven Soft Robotic Systems: Translational Challenges" Video 4 - Professor Arianna Menciassi Santï¿½Anna - School of Advanced Studies ï¿½ Pisa |
-| [3400](https://ras.papercept.net/proceedings/IROS20/3400.pdf) | WS-2441 IROS 2020 Workshop "Application-Driven Soft Robotic Systems: Translational Challenges" Video 5 - Professor Bradley Nelson, ETH ï¿½ Zurich |
-| [3401](https://ras.papercept.net/proceedings/IROS20/3401.pdf) | WS-2441 IROS 2020 Workshop "Application-Driven Soft Robotic Systems: Translational Challenges" Video 6 - Professor Conor Walsh, Harvard University |
-| [3402](https://ras.papercept.net/proceedings/IROS20/3402.pdf) | WS-2441 IROS 2020 Workshop "Application-Driven Soft Robotic Systems: Translational Challenges" Video 7 - Dr. David Noonan, Auris Health, Inc |
-| [3403](https://ras.papercept.net/proceedings/IROS20/3403.pdf) | WS-2441 IROS 2020 Workshop "Application-Driven Soft Robotic Systems: Translational Challenges" Video 8 - Dr. Fumiya Iida, Cambridge University |
-| [3404](https://ras.papercept.net/proceedings/IROS20/3404.pdf) | WS-2441 IROS 2020 Workshop "Application-Driven Soft Robotic Systems: Translational Challenges" Video 9 - Professor Oliver Brock - Technische UniversitÃ¤t Berlin |
-| [3405](https://ras.papercept.net/proceedings/IROS20/3405.pdf) | WS-2441 IROS 2020 Workshop "Application-Driven Soft Robotic Systems: Translational Challenges" Video 10 - Dr. Girish Chowdhary, University of Illinois Urbana-Champaign |
-| [3406](https://ras.papercept.net/proceedings/IROS20/3406.pdf) | WS-2441 IROS 2020 Workshop "Application-Driven Soft Robotic Systems: Translational Challenges" Video 11 - Margaret M. Coad, Stanford University |
-| [3407](https://ras.papercept.net/proceedings/IROS20/3407.pdf) | WS-2441 IROS 2020 Workshop "Application-Driven Soft Robotic Systems: Translational Challenges" Video 12 - Professor Mirko Kovac, Imperial College London |
-| [3408](https://ras.papercept.net/proceedings/IROS20/3408.pdf) | WS-2441 IROS 2020 Workshop "Application-Driven Soft Robotic Systems: Translational Challenges" Video 13 - Dr. Thrishantha Nanayakkara, Imperial College London |
-| [3409](https://ras.papercept.net/proceedings/IROS20/3409.pdf) | WS-2441 IROS 2020 Workshop "Application-Driven Soft Robotic Systems: Translational Challenges" Video 14 - Panel Talks |
-| [3410](https://ras.papercept.net/proceedings/IROS20/3410.pdf) | WS-3143 Workshop Intro Video |
-| [3411](https://ras.papercept.net/proceedings/IROS20/3411.pdf) | WS-3143 Video 1 |
-| [3412](https://ras.papercept.net/proceedings/IROS20/3412.pdf) | WS-3143 Video 2 |
-| [3413](https://ras.papercept.net/proceedings/IROS20/3413.pdf) | WS-3143 Video 3 |
-| [3414](https://ras.papercept.net/proceedings/IROS20/3414.pdf) | WS-3143 Video 4 |
-| [3415](https://ras.papercept.net/proceedings/IROS20/3415.pdf) | WS-3143 Video 5 |
-| [3425](https://ras.papercept.net/proceedings/IROS20/3425.pdf) | WS-3144 Workshop Intro Video |
-| [3426](https://ras.papercept.net/proceedings/IROS20/3426.pdf) | Robotic Assembly Activities at NASA Langley Research Center |
-| [3427](https://ras.papercept.net/proceedings/IROS20/3427.pdf) | Autonomous Vision-driven Robotic Manipulation in Space: On-orbit Assembly with a CubeSate Arm, Sample Tube Pickup for Mars Sample Return |
-| [3428](https://ras.papercept.net/proceedings/IROS20/3428.pdf) | Comparison between Stationary and Crawling Multi-Arm Robotics for In-Space Assembly |
-| [3429](https://ras.papercept.net/proceedings/IROS20/3429.pdf) | Towards in-situ 3D printing and assembly with mobile robots |
-| [3430](https://ras.papercept.net/proceedings/IROS20/3430.pdf) | Scaling the Payload w/ OSAM-2 ï¿½ On-Orbit Manufacturing and Robotic Assembly Drives the Future Economies in Space (Part 1) |
-| [3431](https://ras.papercept.net/proceedings/IROS20/3431.pdf) | Live Interaction Session #1: Interactive Paper/Poster Session |
-| [3432](https://ras.papercept.net/proceedings/IROS20/3432.pdf) | Live Interaction Session #2: Town Hall Discussion |
-| [3433](https://ras.papercept.net/proceedings/IROS20/3433.pdf) | Scaling the Payload w/ OSAM-2 ï¿½ On-Orbit Manufacturing and Robotic Assembly Drives the Future Economies in Space (Part 1) |
-| [3434](https://ras.papercept.net/proceedings/IROS20/3434.pdf) | KRAKEN - Compliant Manipulator for Small Spacecraft |
-| [3435](https://ras.papercept.net/proceedings/IROS20/3435.pdf) | Modular Robotic Assets and Technologies for Future On-orbit Applications |
-| [3436](https://ras.papercept.net/proceedings/IROS20/3436.pdf) | Compliance Control for Robotic In-Space Assembly and Maintenance |
-| [3456](https://ras.papercept.net/proceedings/IROS20/3456.pdf) | Bringing Constraint-Based Robot Programming to Real-World Applications - Introduction (dummy) |
-| [3457](https://ras.papercept.net/proceedings/IROS20/3457.pdf) | Constraint-based robot programming for advanced sensor-based applications and human-robot interaction |
-| [3458](https://ras.papercept.net/proceedings/IROS20/3458.pdf) | Multi-objectives and multi-sensory task space quadratic programming control |
-| [3459](https://ras.papercept.net/proceedings/IROS20/3459.pdf) | Robot Programming at Your Fingertips with OpenSoT and CartesI/O |
-| [3460](https://ras.papercept.net/proceedings/IROS20/3460.pdf) | Welding Automation using Constraint-based Robot Programming |
-| [3461](https://ras.papercept.net/proceedings/IROS20/3461.pdf) | The First Industrial Application of eTaSL: Ultrasound Inspection of Fold-Glue Joints of Car Parts in a Human-Robot Collaborative Setting at Audi Brussels |
-| [3462](https://ras.papercept.net/proceedings/IROS20/3462.pdf) | Constraint Identification from STEP AP242 Files for Automated Robotic Welding (dummy) |
-| [3463](https://ras.papercept.net/proceedings/IROS20/3463.pdf) | Constraint-Based Plan Transformation in a Safe and Usable GOLOG Language |
-| [3464](https://ras.papercept.net/proceedings/IROS20/3464.pdf) | Bridging the Gap between the Open-source Task-Space Constraint-Based Control Framework and Real-World Human-Robot Interaction Applications |
-| [3465](https://ras.papercept.net/proceedings/IROS20/3465.pdf) | Constraint-based Dual Arm Control for Automated Wiring of Electrical Cabinets |
-| [3466](https://ras.papercept.net/proceedings/IROS20/3466.pdf) | The Explicit Reference Governor for Real-time Safe Control of a Robotic Manipulator |
-| [3467](https://ras.papercept.net/proceedings/IROS20/3467.pdf) | Bringing Constraint-Based Robot Programming to Real-World Applications - Plenary (dummy)  |
-| [3471](https://ras.papercept.net/proceedings/IROS20/3471.pdf) | WS-2414 Workshop Intro Video |
-| [3472](https://ras.papercept.net/proceedings/IROS20/3472.pdf) | Theme 1: Safe interaction with delicate deformable objects |
-| [3473](https://ras.papercept.net/proceedings/IROS20/3473.pdf) | Theme 2: Modeling and characterizing deformation |
-| [3474](https://ras.papercept.net/proceedings/IROS20/3474.pdf) | Theme 3: Produce, Assemble and Build with Deformable Objects |
-| [3475](https://ras.papercept.net/proceedings/IROS20/3475.pdf) | Accepted paper "RGB-D sensing of challenging deformable objects" |
-| [3476](https://ras.papercept.net/proceedings/IROS20/3476.pdf) | Accepted workshop paper "Building 3D Deformable Object Models in Partially Observable Robotic Environments" |
-| [3477](https://ras.papercept.net/proceedings/IROS20/3477.pdf) | Accepted workshop paper "SOMA: A Data-Driven Representation Framework for Semantic Soft Object Manipulation" |
-| [3478](https://ras.papercept.net/proceedings/IROS20/3478.pdf) | Accepted workshop student paper/presentation "Task-oriented Contact Adjustment in Deformable Objects Manipulation with Non-fixed Contact" |
-| [3479](https://ras.papercept.net/proceedings/IROS20/3479.pdf) | Accepted workshop paper/presentation "Adaptive Shape Servoing of Elastic Rods using Parameterized Regression Features and Auto-Tuning Motion Controls" |
-| [3480](https://ras.papercept.net/proceedings/IROS20/3480.pdf) | Accepted workshop paper/presentation "Automatic Shape Control of Deformable Rods Based on Data-Driven Implicit Sensorimotor Models" |
-| [3481](https://ras.papercept.net/proceedings/IROS20/3481.pdf) | Accepted workshop paper/presentation "Assembly Strategy for Deformable Ring-Shaped Objects" |
-| [3482](https://ras.papercept.net/proceedings/IROS20/3482.pdf) | Accepted workshop paper/presentation: "MGSD: Multi-Modal Gaussian Shape Descriptors for Correspondence Matching of Linear and Planar Deformable Objects" |
-| [3483](https://ras.papercept.net/proceedings/IROS20/3483.pdf) | Placeholder for a live session |
-| [3484](https://ras.papercept.net/proceedings/IROS20/3484.pdf) | Accepted Workshop Paper/presentation "Impact-Aware Control for Deformable Contacts" |
-| [3486](https://ras.papercept.net/proceedings/IROS20/3486.pdf) | Introduction to the Workshop on Robotic Manipulation of Deformable Objects (ROMADO) |
-| [3487](https://ras.papercept.net/proceedings/IROS20/3487.pdf) | Invited talk 1: "Controlled within-hand sliding" by Berk Calli |
-| [3488](https://ras.papercept.net/proceedings/IROS20/3488.pdf) | Invited talk 2: "Deformable object interaction and contact-rich tasks" by Danica Kragic and Ioanna Mitsioni |
-| [3489](https://ras.papercept.net/proceedings/IROS20/3489.pdf) | Invited talk 3: "On feedback features for shape control of deformable objects" by David Navarro-Alarcon |
-| [3490](https://ras.papercept.net/proceedings/IROS20/3490.pdf) | Invited Talk 4: "Grasp Synthesis of Articulated Objects with N Links" by Raul Suarez |
-| [3491](https://ras.papercept.net/proceedings/IROS20/3491.pdf) | Invited talk 5: "Integrating soft robots with the sense of touch" by Kaspar Althoefer |
-| [3492](https://ras.papercept.net/proceedings/IROS20/3492.pdf) | Invited talk 6: "Multi-robot motion planning and coordination for object transport in dynamic environments" by Javier Alonso-Mora |
-| [3493](https://ras.papercept.net/proceedings/IROS20/3493.pdf) | Invited talk 7: "Multimodal planning and control for dexterous manipulation of challenging objects" by Veronique Perdereau |
-| [3494](https://ras.papercept.net/proceedings/IROS20/3494.pdf) | Paper 1: "Dual-armed manipulation planning for tethered tools" by Daniel Sanchez, Weiwei Wan and Kensuke Harada |
-| [3495](https://ras.papercept.net/proceedings/IROS20/3495.pdf) | Paper 2: "Prediction of tactile perception from vision on deformable objects" by Brayan S. Zapata-Impata and Pablo Gil |
-| [3496](https://ras.papercept.net/proceedings/IROS20/3496.pdf) | Paper 3: "Shape control of elastoplastic deformable linear objects through reinforcement learning" by Rita Laezza and Yiannis Karayiannidis |
-| [3497](https://ras.papercept.net/proceedings/IROS20/3497.pdf) | Paper 4: "Interaction identification through tactile sensing during cloth manipulation using a 3-axis touch sensor" by Idril Geer, Marc Maceira, Julia Borras, Carme Torras and Guillem Alenya |
-| [3498](https://ras.papercept.net/proceedings/IROS20/3498.pdf) | Paper 5: "Toward a general framework for 3D deformable object grasping and manipulation" by Felix Nadon, Angel J. Valencia, Narmadha Sambandam, Stephen Rowlands, James Dickens and Pierre Payeur |
-| [3499](https://ras.papercept.net/proceedings/IROS20/3499.pdf) | Paper 6: "Experimental multi-camera setup for perception of dynamic objects" by Rafael Herguedas, Gonzalo Lopez-Nicolas and Carlos Sagues |
-| [3500](https://ras.papercept.net/proceedings/IROS20/3500.pdf) | Paper 7: "Real-time state estimation of deformable objects with dynamical simulation" by Shiyu Jin, Changhao Wang, Xinghao Zhu, Te Tang and Masayoshi Tomizuka |
-| [3501](https://ras.papercept.net/proceedings/IROS20/3501.pdf) | WS-2391 Workshop Intro Video |
-| [3502](https://ras.papercept.net/proceedings/IROS20/3502.pdf) | WS-2391 Video 1 |
-| [3503](https://ras.papercept.net/proceedings/IROS20/3503.pdf) | WS-2391 Video 2 |
-| [3504](https://ras.papercept.net/proceedings/IROS20/3504.pdf) | WS-2391 Video 3 |
-| [3505](https://ras.papercept.net/proceedings/IROS20/3505.pdf) | WS-2391 Video 4 |
-| [3506](https://ras.papercept.net/proceedings/IROS20/3506.pdf) | WS-2391 Video 5 |
-| [3507](https://ras.papercept.net/proceedings/IROS20/3507.pdf) | WS-2391 Video 6 |
-| [3508](https://ras.papercept.net/proceedings/IROS20/3508.pdf) | WS-2391 Video 7 |
-| [3509](https://ras.papercept.net/proceedings/IROS20/3509.pdf) | WS-2391 Video 8 |
-| [3510](https://ras.papercept.net/proceedings/IROS20/3510.pdf) | WS-2391 Video 9 |
-| [3511](https://ras.papercept.net/proceedings/IROS20/3511.pdf) | WS-2391 Video 10 |
-| [3512](https://ras.papercept.net/proceedings/IROS20/3512.pdf) | WS-2391 Video 11 |
-| [3513](https://ras.papercept.net/proceedings/IROS20/3513.pdf) | WS-2391 Video 12 |
-| [3514](https://ras.papercept.net/proceedings/IROS20/3514.pdf) | WS-2391 Video 13 |
-| [3515](https://ras.papercept.net/proceedings/IROS20/3515.pdf) | WS-2391 Video 14 |
-| [3516](https://ras.papercept.net/proceedings/IROS20/3516.pdf) | WS-2398 Workshop Intro Video |
-| [3517](https://ras.papercept.net/proceedings/IROS20/3517.pdf) | WS-2398 Video 1 |
-| [3518](https://ras.papercept.net/proceedings/IROS20/3518.pdf) | WS-2398 Video 2 |
-| [3519](https://ras.papercept.net/proceedings/IROS20/3519.pdf) | WS-2398 Video 3 |
-| [3520](https://ras.papercept.net/proceedings/IROS20/3520.pdf) | WS-2398 Video 4 |
-| [3521](https://ras.papercept.net/proceedings/IROS20/3521.pdf) | WS-2398 Video 5 |
-| [3522](https://ras.papercept.net/proceedings/IROS20/3522.pdf) | WS-2398 Video 6 |
-| [3523](https://ras.papercept.net/proceedings/IROS20/3523.pdf) | WS-2398 Video 7 |
-| [3524](https://ras.papercept.net/proceedings/IROS20/3524.pdf) | WS-2398 Video 8 |
-| [3525](https://ras.papercept.net/proceedings/IROS20/3525.pdf) | WS-2398 Video 9 |
-| [3531](https://ras.papercept.net/proceedings/IROS20/3531.pdf) | Robotic Leg Prosthesis Workshop - Introduction and Objectives |
-| [3532](https://ras.papercept.net/proceedings/IROS20/3532.pdf) | Robotic Leg Prosthesis Workshop - Invited Talk 1 - Michael Goldfarb |
-| [3533](https://ras.papercept.net/proceedings/IROS20/3533.pdf) | Robotic Leg Prosthesis Workshop - Invited Talk 2 - Robert Gregg |
-| [3534](https://ras.papercept.net/proceedings/IROS20/3534.pdf) | Robotic Leg Prosthesis Workshop - Invited Talk 3 - Helen Huang |
-| [3535](https://ras.papercept.net/proceedings/IROS20/3535.pdf) | Robotic Leg Prosthesis Workshop - Invited Talk 4 - Dirk Lefeber |
-| [3536](https://ras.papercept.net/proceedings/IROS20/3536.pdf) | Robotic Leg Prosthesis Workshop - Invited Talk 5 - Tommaso Lenzi |
-| [3537](https://ras.papercept.net/proceedings/IROS20/3537.pdf) | Robotic Leg Prosthesis Workshop - Invited Talk 6 - Elliott Rouse |
-| [3538](https://ras.papercept.net/proceedings/IROS20/3538.pdf) | Robotic Leg Prosthesis Workshop - Invited Talk 7 - Thomas Sugar |
-| [3539](https://ras.papercept.net/proceedings/IROS20/3539.pdf) | Robotic Leg Prosthesis Workshop - Invited Talk 8 - Qining Wang |
-| [3561](https://ras.papercept.net/proceedings/IROS20/3561.pdf) | Why robots fail to grasp? Workshop introduction video |
-| [3562](https://ras.papercept.net/proceedings/IROS20/3562.pdf) | WS-2411 Why Robots Fail to Grasp? Kensuke Harada - In-hand Pose Estimation using Multi-Modal Sensing |
-| [3563](https://ras.papercept.net/proceedings/IROS20/3563.pdf) | Why Robots Fail to Grasp? Jeannette Bohg - Sensory motor search for learning and recovering from failure in robotic manipulation |
-| [3564](https://ras.papercept.net/proceedings/IROS20/3564.pdf) | Why Robots Fail to Grasp? Juxi Leitner |
-| [3565](https://ras.papercept.net/proceedings/IROS20/3565.pdf) | Why Robots Fail to Grasp? Ken Goldberg - Addressing Persistent Failures in Warehouse Grasping |
-| [3566](https://ras.papercept.net/proceedings/IROS20/3566.pdf) | Why Robots Fail to Grasp? Lorenzo Natale - Grasping failures/challenges: the iCub Perspective |
-| [3567](https://ras.papercept.net/proceedings/IROS20/3567.pdf) | Why Robots Fail to Grasp? Rob Platt |
-| [3568](https://ras.papercept.net/proceedings/IROS20/3568.pdf) | Why Robots Fail to Grasp? Andrew Sharp - Robust Manipulation for Remote Operations |
-| [3569](https://ras.papercept.net/proceedings/IROS20/3569.pdf) | Why Robots Fail to Grasp? Toni Oliver - Learning from failures in grasping and manipulation with dexterous hands and smart grasping |
-| [3570](https://ras.papercept.net/proceedings/IROS20/3570.pdf) | Why Robots Fail to Grasp? Dieter Fox |
-| [3571](https://ras.papercept.net/proceedings/IROS20/3571.pdf) | Why Robots Fail to Grasp? Discussion Part 1 |
-| [3572](https://ras.papercept.net/proceedings/IROS20/3572.pdf) | Why Robots Fail to Grasp? Discussion Part 2 |
-| [3573](https://ras.papercept.net/proceedings/IROS20/3573.pdf) | Why Robots Fail to Grasp? Discussion Part 3 |
-| [3574](https://ras.papercept.net/proceedings/IROS20/3574.pdf) | Why Robots Fail to Grasp? Discussion Part 4 |
-| [3591](https://ras.papercept.net/proceedings/IROS20/3591.pdf) | WS-2418 Workshop Intro Video |
-| [3592](https://ras.papercept.net/proceedings/IROS20/3592.pdf) | Impedance Control: Planning or Learning? |
-| [3593](https://ras.papercept.net/proceedings/IROS20/3593.pdf) | Compliant Actuation for Human Performance Augmentation |
-| [3594](https://ras.papercept.net/proceedings/IROS20/3594.pdf) | Interaction Control in Humans and Robots |
-| [3595](https://ras.papercept.net/proceedings/IROS20/3595.pdf) | Mastering the Skeleton and its Muscles |
-| [3597](https://ras.papercept.net/proceedings/IROS20/3597.pdf) | Biomechanics-based Variable Damping Controller for Enhanced Physical Human Robot Interaction  |
-| [3598](https://ras.papercept.net/proceedings/IROS20/3598.pdf) | Impedance modulation: a necessary trade-off between environmental uncertainty and external disturbances? |
-| [3599](https://ras.papercept.net/proceedings/IROS20/3599.pdf) | Does the Nervous System Leverage Impedance to Simplify the Neural Control of Movement? |
+| [3475](https://ras.papercept.net/proceedings/IROS20/3475.pdf) | RGB-D sensing of challenging deformable objects |
+| [3476](https://ras.papercept.net/proceedings/IROS20/3476.pdf) | Building 3D Deformable Object Models in Partially Observable Robotic Environments |
+| [3477](https://ras.papercept.net/proceedings/IROS20/3477.pdf) | SOMA: A Data-Driven Representation Framework for Semantic Soft Object Manipulation |
+| [3478](https://ras.papercept.net/proceedings/IROS20/3478.pdf) | Task-oriented Contact Adjustment in Deformable Objects Manipulation with Non-fixed Contact |
+| [3479](https://ras.papercept.net/proceedings/IROS20/3479.pdf) | Adaptive Shape Servoing of Elastic Rods using Parameterized Regression Features and Auto-Tuning Motion Controls |
+| [3480](https://ras.papercept.net/proceedings/IROS20/3480.pdf) | Automatic Shape Control of Deformable Rods Based on Data-Driven Implicit Sensorimotor Models |
+| [3481](https://ras.papercept.net/proceedings/IROS20/3481.pdf) | Assembly Strategy for Deformable Ring-Shaped Objects |
+| [3482](https://ras.papercept.net/proceedings/IROS20/3482.pdf) |  MGSD: Multi-Modal Gaussian Shape Descriptors for Correspondence Matching of Linear and Planar Deformable Objects |
+| [3494](https://ras.papercept.net/proceedings/IROS20/3494.pdf) | Dual-armed manipulation planning for tethered tools |
+| [3495](https://ras.papercept.net/proceedings/IROS20/3495.pdf) | Prediction of tactile perception from vision on deformable objects|
+| [3496](https://ras.papercept.net/proceedings/IROS20/3496.pdf) | Shape control of elastoplastic deformable linear objects through reinforcement learning |
+| [3497](https://ras.papercept.net/proceedings/IROS20/3497.pdf) | Interaction identification through tactile sensing during cloth manipulation using a 3-axis touch sensor|
+| [3498](https://ras.papercept.net/proceedings/IROS20/3498.pdf) | Toward a general framework for 3D deformable object grasping and manipulation |
+| [3499](https://ras.papercept.net/proceedings/IROS20/3499.pdf) | Experimental multi-camera setup for perception of dynamic objects |
+| [3500](https://ras.papercept.net/proceedings/IROS20/3500.pdf) | Real-time state estimation of deformable objects with dynamical simulation |
 | [3601](https://ras.papercept.net/proceedings/IROS20/3601.pdf) | Human-Robot Collaborative Carrying Using Visual and Force Sensing |
-| [3602](https://ras.papercept.net/proceedings/IROS20/3602.pdf) | Live Event 1 |
-| [3603](https://ras.papercept.net/proceedings/IROS20/3603.pdf) | Live Event 2 |
-| [3604](https://ras.papercept.net/proceedings/IROS20/3604.pdf) | Live Event 3 |
-| [3605](https://ras.papercept.net/proceedings/IROS20/3605.pdf) | Live Event 4 |
 | [3622](https://ras.papercept.net/proceedings/IROS20/3622.pdf) | Toward Detecting Anomalies in Activities for Daily Living with a Mobile Robot Using Plan Recognition |
 | [3623](https://ras.papercept.net/proceedings/IROS20/3623.pdf) | Human-Aware Robot Behavior in Healthcare Facilities |
 | [3624](https://ras.papercept.net/proceedings/IROS20/3624.pdf) | An Interactive Drink Serving Social Robot: Initial System Implementation |
@@ -1764,35 +1525,6 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [3627](https://ras.papercept.net/proceedings/IROS20/3627.pdf) | Towards Conversational Interfaces and Visual Memory Representation for Social Robots helping the Elderly |
 | [3628](https://ras.papercept.net/proceedings/IROS20/3628.pdf) | On New Research Guidelines for the Deployment of Socially Assistive Robots for Elder Care Amidst the COVID-19 Pandemic |
 | [3629](https://ras.papercept.net/proceedings/IROS20/3629.pdf) | Towards Physical Human-Robot Interaction using Force Support for Nursing Care Bed Activities |
-| [3636](https://ras.papercept.net/proceedings/IROS20/3636.pdf) | WS-2426 Workshop Intro Video |
-| [3637](https://ras.papercept.net/proceedings/IROS20/3637.pdf) | WS-2426 Video 1 |
-| [3638](https://ras.papercept.net/proceedings/IROS20/3638.pdf) | WS-2426 Video 2 |
-| [3639](https://ras.papercept.net/proceedings/IROS20/3639.pdf) | WS-2426 Video 3 |
-| [3640](https://ras.papercept.net/proceedings/IROS20/3640.pdf) | WS-2426 Video 4 (Dummy video) |
-| [3641](https://ras.papercept.net/proceedings/IROS20/3641.pdf) | WS-2426 Video 5. Supernumerary Robotic Limbs: Research Overview and Actuator Challenges |
-| [3642](https://ras.papercept.net/proceedings/IROS20/3642.pdf) | WS-2426 Video 6.  Safety Critical Design, Dynamics, and Control of Human-Wearable Extra Robotic Legs |
-| [3643](https://ras.papercept.net/proceedings/IROS20/3643.pdf) | WS-2426 Video 7.  Manus Robotics |
-| [3644](https://ras.papercept.net/proceedings/IROS20/3644.pdf) | WS-2426 Video 8. Panel Discussion 1 (1-5) |
-| [3645](https://ras.papercept.net/proceedings/IROS20/3645.pdf) | WS-2426 Video 9 |
-| [3646](https://ras.papercept.net/proceedings/IROS20/3646.pdf) | WS-2426 Video 10.  Panel discussion 1 Part 3 (3-5) |
-| [3647](https://ras.papercept.net/proceedings/IROS20/3647.pdf) | WS-2426 Video 11 Panel discussion 2 Part 4 (4-5) |
-| [3648](https://ras.papercept.net/proceedings/IROS20/3648.pdf) | WS-2426 Video 12. Panel discussion 2 Part 5 (5-5) |
-| [3651](https://ras.papercept.net/proceedings/IROS20/3651.pdf) | WS-2427 Workshop Intro Video |
-| [3652](https://ras.papercept.net/proceedings/IROS20/3652.pdf) | WS-2427 Video 1 |
-| [3653](https://ras.papercept.net/proceedings/IROS20/3653.pdf) | WS-2427 Video 2 |
-| [3654](https://ras.papercept.net/proceedings/IROS20/3654.pdf) | WS-2427 Video 3 |
-| [3655](https://ras.papercept.net/proceedings/IROS20/3655.pdf) | WS-2427 Video 4 |
-| [3656](https://ras.papercept.net/proceedings/IROS20/3656.pdf) | WS-2427 Video 5 |
-| [3657](https://ras.papercept.net/proceedings/IROS20/3657.pdf) | WS-2427 Video 6 |
-| [3658](https://ras.papercept.net/proceedings/IROS20/3658.pdf) | WS-2427 Video 7 |
-| [3659](https://ras.papercept.net/proceedings/IROS20/3659.pdf) | WS-2427 Video 8 |
-| [3660](https://ras.papercept.net/proceedings/IROS20/3660.pdf) | WS-2427 Video 9 |
-| [3661](https://ras.papercept.net/proceedings/IROS20/3661.pdf) | WS-2427 Video 10 |
-| [3671](https://ras.papercept.net/proceedings/IROS20/3671.pdf) | Poster Presentation: Co-Design in Architecture (Samuel Leder, Ozgur S. Oguz, Hyun Gyu Kim, Valentin N. Hartmann, Marc Toussiant, Achim Menges and Metin Sitti) |
-| [3672](https://ras.papercept.net/proceedings/IROS20/3672.pdf) | Poster Presentation: Towards an On-site Fabrication System for Bespoke, Unlimited and Monolithic Timber Slabs (Hans Jakob Wagner, Hua Chai, Zhixian Guo, Achim Menges, Philip F. Yuan) |
-| [3674](https://ras.papercept.net/proceedings/IROS20/3674.pdf) | Poster Presentation: Enabling Intentional Sound for Construction Cobots (Caitlin Frazee, Brian J. Zhang, Naomi T. Fitter) |
-| [3676](https://ras.papercept.net/proceedings/IROS20/3676.pdf) | Poster Presentation: Exploring Different Construction Stakeholdersï¿½ Perception of Human-Robot Collaboration (YeSeul Kim, Changbum Ryan Ahn, Hyunsoo Kim, SangHyun Lee, Robin Murphy) |
-| [3711](https://ras.papercept.net/proceedings/IROS20/3711.pdf) | WS-2390 Workshop Intro Video |
 | [3712](https://ras.papercept.net/proceedings/IROS20/3712.pdf) | Service robot teaching assistant in school class-room |
 | [3713](https://ras.papercept.net/proceedings/IROS20/3713.pdf) | Infant abnormal behavior classification through weakly supervised learning |
 | [3714](https://ras.papercept.net/proceedings/IROS20/3714.pdf) | Amusing Androids: The Argument for Humour in Healthcare Robotics |
@@ -1805,84 +1537,3 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [3721](https://ras.papercept.net/proceedings/IROS20/3721.pdf) | Efficiency Analysis of Multi-Head Attention Models for Social Dynamics Prediction |
 | [3722](https://ras.papercept.net/proceedings/IROS20/3722.pdf) | Leveraging Reinforcement Learning for Human Motor Skill Acquisition |
 | [3723](https://ras.papercept.net/proceedings/IROS20/3723.pdf) | Efficient Learning of Socially Aware Robot Approaching Behavior Toward Groups via Meta-Reinforcement Learning |
-| [3724](https://ras.papercept.net/proceedings/IROS20/3724.pdf) | Invited Talk 1 - Jaeyeon Lee |
-| [3725](https://ras.papercept.net/proceedings/IROS20/3725.pdf) | Read the Room, Robot! Exploring Audiovisual Methods to Improve the Effectiveness of Robotic Comedians |
-| [3741](https://ras.papercept.net/proceedings/IROS20/3741.pdf) | TS-3186 Tutorial Introduction |
-| [3742](https://ras.papercept.net/proceedings/IROS20/3742.pdf) | TS-3186 (Perception Session) Lecture: Past, Present, and Future of Simultaneous Localization and Mapping  |
-| [3743](https://ras.papercept.net/proceedings/IROS20/3743.pdf) | TS-3186 Lidar Data Processing for Object Detection and Tracking |
-| [3744](https://ras.papercept.net/proceedings/IROS20/3744.pdf) | TS-3186 (Motion Planning Session) Lecture: Motion Planning for Robotics |
-| [3745](https://ras.papercept.net/proceedings/IROS20/3745.pdf) | TS-3186 Motion planning for mobile robots & manipulators with MATLAB |
-| [3746](https://ras.papercept.net/proceedings/IROS20/3746.pdf) | TS-3186 Lecture: Using Reinforcement Learning to Solve Control Problems for Robotics |
-| [3747](https://ras.papercept.net/proceedings/IROS20/3747.pdf) | TS-3186 Reinforcement learning for ball balancing using a robot manipulator |
-| [3748](https://ras.papercept.net/proceedings/IROS20/3748.pdf) | TS-3186 Complete pick-and-place workflow for robot manipulators  |
-| [3749](https://ras.papercept.net/proceedings/IROS20/3749.pdf) | TS-3186 (Implementation and Deployment Session) Tutorial: Using ROS and ROS 2 with MATLAB and Simulink |
-| [3756](https://ras.papercept.net/proceedings/IROS20/3756.pdf) | Welcome and introduction to the session |
-| [3757](https://ras.papercept.net/proceedings/IROS20/3757.pdf) | Introduction to In-Situ Resource Utilization |
-| [3758](https://ras.papercept.net/proceedings/IROS20/3758.pdf) | Space Mobility and Autonomy for in-situ resources utilization |
-| [3759](https://ras.papercept.net/proceedings/IROS20/3759.pdf) | Tutorial 0: Setup |
-| [3760](https://ras.papercept.net/proceedings/IROS20/3760.pdf) | Tutorial 1: Direct Operation |
-| [3761](https://ras.papercept.net/proceedings/IROS20/3761.pdf) | Tutorial 2: Delayed Teleoperation |
-| [3762](https://ras.papercept.net/proceedings/IROS20/3762.pdf) | Tutorial 3: Autonomous Operation |
-| [3771](https://ras.papercept.net/proceedings/IROS20/3771.pdf) | TS-77 F1/10 Tutorial at IROS2020: Video Intro |
-| [3772](https://ras.papercept.net/proceedings/IROS20/3772.pdf) | TS-77 Introduction to the F1Tenth Car (New Build) and Simulator: Video 01 |
-| [3773](https://ras.papercept.net/proceedings/IROS20/3773.pdf) | TS-77 Introduction to the F1Tenth Car (New Build) and Simulator: Video 02 |
-| [3774](https://ras.papercept.net/proceedings/IROS20/3774.pdf) | TS-77 Session 1C UVA Gazebo-based F1/Tenth Simulator |
-| [3775](https://ras.papercept.net/proceedings/IROS20/3775.pdf) | TS-77 FITENTH Tutorial: Reactive Methods - Follow the Gap |
-| [3776](https://ras.papercept.net/proceedings/IROS20/3776.pdf) | TS-77 F1TENTH Tutorial: Mapping and Localization |
-| [3782](https://ras.papercept.net/proceedings/IROS20/3782.pdf) | TS-77 F1TENTH Tutorial: Research and Educational Directions (OSU) |
-| [3783](https://ras.papercept.net/proceedings/IROS20/3783.pdf) | TS-77 F1TENTH: Research and Educational Directions (Clemson) |
-| [3784](https://ras.papercept.net/proceedings/IROS20/3784.pdf) | TS-77 F1TENTH Tutorial: Research and Education Directions (UVA) |
-| [3816](https://ras.papercept.net/proceedings/IROS20/3816.pdf) | TS-2408 Tutorial Intro Video |
-| [3817](https://ras.papercept.net/proceedings/IROS20/3817.pdf) | TS-2408 Video 1 |
-| [3818](https://ras.papercept.net/proceedings/IROS20/3818.pdf) | TS-2408 Video 2 |
-| [3819](https://ras.papercept.net/proceedings/IROS20/3819.pdf) | TS-2408 Video 3 |
-| [3820](https://ras.papercept.net/proceedings/IROS20/3820.pdf) | TS-2408 Video 4 |
-| [3846](https://ras.papercept.net/proceedings/IROS20/3846.pdf) | TS-3193 Tutorial Intro Video: Kickoff for Bioinspired Robotics |
-| [3847](https://ras.papercept.net/proceedings/IROS20/3847.pdf) | TS-3193 Video 1: Using Biological Diversity to Design the Robots of the Future, Robert J. Full |
-| [3848](https://ras.papercept.net/proceedings/IROS20/3848.pdf) | TS-3193 Video 2: Bioinspired Legged Millirobots |
-| [3850](https://ras.papercept.net/proceedings/IROS20/3850.pdf) | TS-3193 Video 4: Octopus Inspired Soft Robots |
-| [3851](https://ras.papercept.net/proceedings/IROS20/3851.pdf) | TS-3193 Video 5: Soft robots for terrestrial and marine locomotion |
-| [3852](https://ras.papercept.net/proceedings/IROS20/3852.pdf) | TS-3193 Video 6: Combining Soft Robotics and Deep Learning in Robots Inspired By Bats |
-| [3853](https://ras.papercept.net/proceedings/IROS20/3853.pdf) | TS-3193 Video 7: Controlling Soil Interactions to Enable a Fast, Steerable, Burrowing Soft Robot |
-| [3854](https://ras.papercept.net/proceedings/IROS20/3854.pdf) | TS-3193 Video 8: Biomechanics of Elephant Trunks |
-| [3861](https://ras.papercept.net/proceedings/IROS20/3861.pdf) | Tutorial Introduction Video |
-| [3862](https://ras.papercept.net/proceedings/IROS20/3862.pdf) | Matteo Bianchi | From human haptic perception modelling to system design for advanced human-machine interaction |
-| [3863](https://ras.papercept.net/proceedings/IROS20/3863.pdf) | Oliver Schneider | How to design haptic experiences |
-| [3864](https://ras.papercept.net/proceedings/IROS20/3864.pdf) | Allison Okamura | Wearable Tactile Devices for XR |
-| [3865](https://ras.papercept.net/proceedings/IROS20/3865.pdf) | Jeremy Brown | Haptic Interaction Design For Telerobotic Devices |
-| [3866](https://ras.papercept.net/proceedings/IROS20/3866.pdf) | Morning Speaker Panel |
-| [3867](https://ras.papercept.net/proceedings/IROS20/3867.pdf) | Lynette Jones | Enhancing realism and communication bandwidth using multisensory cutaneous cues |
-| [3868](https://ras.papercept.net/proceedings/IROS20/3868.pdf) | Heather Culbertson | Minimizing Haptic Hardware in Wearable Devices |
-| [3869](https://ras.papercept.net/proceedings/IROS20/3869.pdf) | Jeremy Cooperstock | Taking Haptics Out of the Lab and Into the Wild |
-| [3870](https://ras.papercept.net/proceedings/IROS20/3870.pdf) | Ali Israr | Challenges in Haptic Hardware Design for Enabling XR Interactions |
-| [3871](https://ras.papercept.net/proceedings/IROS20/3871.pdf) | Sile Oï¿½Modhrain | Designing a Full-Page Tactile Display: What We Know and What We Donï¿½t Know Yet |
-| [3872](https://ras.papercept.net/proceedings/IROS20/3872.pdf) | Evan Pezent | Syntacts Workshop |
-| [3873](https://ras.papercept.net/proceedings/IROS20/3873.pdf) | Afternoon Speaker Panel |
-| [3874](https://ras.papercept.net/proceedings/IROS20/3874.pdf) | Tutorial Closing Video |
-| [3906](https://ras.papercept.net/proceedings/IROS20/3906.pdf) | Tutorial Introduction |
-| [3907](https://ras.papercept.net/proceedings/IROS20/3907.pdf) | Agile Robotics Development |
-| [3908](https://ras.papercept.net/proceedings/IROS20/3908.pdf) | Robotic Actuation |
-| [3909](https://ras.papercept.net/proceedings/IROS20/3909.pdf) | Motion Control |
-| [3910](https://ras.papercept.net/proceedings/IROS20/3910.pdf) | Real-Time Control |
-| [3911](https://ras.papercept.net/proceedings/IROS20/3911.pdf) | Trajectories |
-| [3912](https://ras.papercept.net/proceedings/IROS20/3912.pdf) | Kinematics |
-| [3913](https://ras.papercept.net/proceedings/IROS20/3913.pdf) | Jacobians |
-| [3914](https://ras.papercept.net/proceedings/IROS20/3914.pdf) | Robotic Arms: Joint-level Control |
-| [3915](https://ras.papercept.net/proceedings/IROS20/3915.pdf) | Robotic Arms: Trajectories |
-| [3916](https://ras.papercept.net/proceedings/IROS20/3916.pdf) | Robotic Arms: Virtual Springs |
-| [3917](https://ras.papercept.net/proceedings/IROS20/3917.pdf) | Robotic Arms: Demonstrations |
-| [3918](https://ras.papercept.net/proceedings/IROS20/3918.pdf) | Research Application: CMU Robomechanics Lab |
-| [3919](https://ras.papercept.net/proceedings/IROS20/3919.pdf) | Research Application: TU Munich |
-| [3920](https://ras.papercept.net/proceedings/IROS20/3920.pdf) | Research Application: University of Washington |
-| [3921](https://ras.papercept.net/proceedings/IROS20/3921.pdf) | Mixed Reality and Robotics Intro Video |
-| [3922](https://ras.papercept.net/proceedings/IROS20/3922.pdf) | Mixed Reality and Robotics - Interaction |
-| [3923](https://ras.papercept.net/proceedings/IROS20/3923.pdf) | Mixed Reality and Robotics - Co-localization |
-| [3924](https://ras.papercept.net/proceedings/IROS20/3924.pdf) | Mixed Reality and Robotics - Demo 1 |
-| [3925](https://ras.papercept.net/proceedings/IROS20/3925.pdf) | Mixed Reality and Robotics - Demo 2 |
-| [3951](https://ras.papercept.net/proceedings/IROS20/3951.pdf) | SIGMA Clermont / Institut Pascal: "Recent work on deformable object manipulation" |
-| [3952](https://ras.papercept.net/proceedings/IROS20/3952.pdf) | Invited talk 8: "From human haptic illusions on soft objects to robotic object recognition and slip detection" by Zhanat Kappassov |
-| [3953](https://ras.papercept.net/proceedings/IROS20/3953.pdf) | Presentation and recent results from project COMMANDIA |
-| [3955](https://ras.papercept.net/proceedings/IROS20/3955.pdf) | Research Application: University of Texas at Austin |
-| [3956](https://ras.papercept.net/proceedings/IROS20/3956.pdf) | Research Application: National University of Singapore |
-| [3957](https://ras.papercept.net/proceedings/IROS20/3957.pdf) | Research Application: NASA Ames |
-| [3958](https://ras.papercept.net/proceedings/IROS20/3958.pdf) | Industrial Applications: Chevron and Westinghouse |
