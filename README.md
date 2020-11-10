@@ -11,7 +11,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 
 
 | download link | title |
-|:---:|:---:|
+|:---:|:---|
 | [0018](https://ras.papercept.net/proceedings/IROS20/0018.pdf) | ARAS: Ambiguity-Aware Robust Active SLAM Based on Multi-Hypothesis State and Map Estimations |
 | [0025](https://ras.papercept.net/proceedings/IROS20/0025.pdf) | Dynamic Attention-Based Visual Odometry |
 | [0031](https://ras.papercept.net/proceedings/IROS20/0031.pdf) | Max Orientation Coverage: Efficient Path Planning to Avoid Collisions in the CNC Milling of 3D Objects |
