@@ -258,7 +258,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [0656](https://ras.papercept.net/proceedings/IROS20/0656.pdf) | Robust and Efficient Post-Processing for Video Object Detection |
 | [0659](https://ras.papercept.net/proceedings/IROS20/0659.pdf) | Topology-Aware Self-Organizing Maps for Robotic Information Gathering |
 | [0660](https://ras.papercept.net/proceedings/IROS20/0660.pdf) | Gaze by Semi-Virtual Robotic Heads: Effects of Eye and Head Motion |
-| [0665](https://ras.papercept.net/proceedings/IROS20/0665.pdf) | Using Diverse Neural Networks for Safer Human Pose Estimation: Towards Making Neural Networks Know When They Donï¿½t Know |
+| [0665](https://ras.papercept.net/proceedings/IROS20/0665.pdf) | Using Diverse Neural Networks for Safer Human Pose Estimation: Towards Making Neural Networks Know When They Donï¿t Know |
 | [0668](https://ras.papercept.net/proceedings/IROS20/0668.pdf) | Online Gain Setting Method for Path Tracking Using CMA-ES: Application to Off-Road Mobile Robot Control |
 | [0669](https://ras.papercept.net/proceedings/IROS20/0669.pdf) | Task Planning with Belief Behavior Trees |
 | [0672](https://ras.papercept.net/proceedings/IROS20/0672.pdf) | Anytime Kinodynamic Motion Planning Using Region-Guided Search |
@@ -357,7 +357,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [0900](https://ras.papercept.net/proceedings/IROS20/0900.pdf) | Fruit Quality Control by Surface Analysis Using a Bio-Inspired Soft Tactile Sensor |
 | [0902](https://ras.papercept.net/proceedings/IROS20/0902.pdf) | AVP-SLAM: Semantic Visual Mapping and Localization for Autonomous Vehicles in the Parking Lot |
 | [0904](https://ras.papercept.net/proceedings/IROS20/0904.pdf) | Robust Internal Model Control for Motor Systems Based on Sliding Mode Technique and Extended State Observer |
-| [0905](https://ras.papercept.net/proceedings/IROS20/0905.pdf) | Organizing the Internet of Robotic Things: The Effect of Organization Structure on Usersï¿½ Evaluation and Compliance Toward IoRT Service Platform |
+| [0905](https://ras.papercept.net/proceedings/IROS20/0905.pdf) | Organizing the Internet of Robotic Things: The Effect of Organization Structure on Users' Evaluation and Compliance Toward IoRT Service Platform |
 | [0907](https://ras.papercept.net/proceedings/IROS20/0907.pdf) | Locomotion Performance of a Configurable Paddle-Wheel Robot Over Dry Sandy Terrain |
 | [0908](https://ras.papercept.net/proceedings/IROS20/0908.pdf) | Can I Lift It? Humanoid Robot Reasoning about the Feasibility of Lifting a Heavy Box with Unknown Physical Properties |
 | [0909](https://ras.papercept.net/proceedings/IROS20/0909.pdf) | Adaptability Preserving Domain Decomposition for Stabilizing Sim2Real Reinforcement Learning |
@@ -459,7 +459,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [1132](https://ras.papercept.net/proceedings/IROS20/1132.pdf) | Modeling a Social Placement Cost to Extend Navigation among Movable Obstacles (NAMO) Algorithms |
 | [1134](https://ras.papercept.net/proceedings/IROS20/1134.pdf) | An Earthworm-Like Soft Robot with Integration of Single Pneumatic Actuator and Cellular Structures for Peristaltic Motion |
 | [1135](https://ras.papercept.net/proceedings/IROS20/1135.pdf) | IDOL: A Framework for IMU-DVS Odometry Using Lines |
-| [1136](https://ras.papercept.net/proceedings/IROS20/1136.pdf) | This or That: The Effect of Robotï¿½s Deictic Expression on Userï¿½s Perception |
+| [1136](https://ras.papercept.net/proceedings/IROS20/1136.pdf) | This or That: The Effect of Robot's Deictic Expression on User's Perception |
 | [1137](https://ras.papercept.net/proceedings/IROS20/1137.pdf) | Modeling and Control of a Hybrid Wheeled Jumping Robot |
 | [1138](https://ras.papercept.net/proceedings/IROS20/1138.pdf) | An In-Pipe Manipulator for Contamination-Less Rehabilitation of Water Distribution Pipes |
 | [1140](https://ras.papercept.net/proceedings/IROS20/1140.pdf) | Transferability in an 8-DoF Parallel Robot with a Configurable Platform |
@@ -511,7 +511,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [1239](https://ras.papercept.net/proceedings/IROS20/1239.pdf) | SGM-MDE: Semi-Global Optimization for Classification-Based Monocular Depth Estimation |
 | [1240](https://ras.papercept.net/proceedings/IROS20/1240.pdf) | Safety Considerations in Deep Control Policies with Safety Barrier Certificates under Uncertainty |
 | [1244](https://ras.papercept.net/proceedings/IROS20/1244.pdf) | Asynchronous Event-Based Line Tracking for Time-To-Contact Maneuvers in UAS |
-| [1245](https://ras.papercept.net/proceedings/IROS20/1245.pdf) | RobotVQA ï¿½ a Scene-Graph and Deep-Learning-Based Visual Question Answering System for Robot Manipulation |
+| [1245](https://ras.papercept.net/proceedings/IROS20/1245.pdf) | RobotVQA ' a Scene-Graph and Deep-Learning-Based Visual Question Answering System for Robot Manipulation |
 | [1247](https://ras.papercept.net/proceedings/IROS20/1247.pdf) | A Model-Free Solution for Stable Balancing and Locomotion of Floating-Base Legged Systems |
 | [1248](https://ras.papercept.net/proceedings/IROS20/1248.pdf) | Label Efficient Visual Abstractions for Autonomous Driving |
 | [1249](https://ras.papercept.net/proceedings/IROS20/1249.pdf) | Control Interface for Hands-Free Navigation of Standing Mobility Vehicles Based on Upper-Body Natural Movements |
@@ -565,7 +565,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [1352](https://ras.papercept.net/proceedings/IROS20/1352.pdf) | Traffic Control Gesture Recognition for Autonomous Vehicles |
 | [1353](https://ras.papercept.net/proceedings/IROS20/1353.pdf) | Emergent Adaptive Gait Generation through Hebbian Sensor-Motor Maps by Morphological Probing |
 | [1356](https://ras.papercept.net/proceedings/IROS20/1356.pdf) | PnuGrip: An Active Two-Phase Gripper for Dexterous Manipulation |
-| [1357](https://ras.papercept.net/proceedings/IROS20/1357.pdf) | robo-gym ï¿½ An Open Source Toolkit for Distributed Deep Reinforcement Learning on Real and Simulated Robots |
+| [1357](https://ras.papercept.net/proceedings/IROS20/1357.pdf) | robo-gym ' An Open Source Toolkit for Distributed Deep Reinforcement Learning on Real and Simulated Robots |
 | [1358](https://ras.papercept.net/proceedings/IROS20/1358.pdf) | LIC-Fusion 2.0: LiDAR-Inertial-Camera Odometry with Sliding-Window Plane-Feature Tracking |
 | [1359](https://ras.papercept.net/proceedings/IROS20/1359.pdf) | Experimental Evaluation of 3D-LIDAR Camera Extrinsic Calibration |
 | [1362](https://ras.papercept.net/proceedings/IROS20/1362.pdf) | Autonomous model-based assessment of mechanical failures of reconfigurable modular robots with a Conjugate Gradient solver |
@@ -1108,7 +1108,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [2545](https://ras.papercept.net/proceedings/IROS20/2545.pdf) | Exploring the Role of Palm Concavity and Adaptability in Soft Synergistic Robotic Hands |
 | [2546](https://ras.papercept.net/proceedings/IROS20/2546.pdf) | Deep Learning Based Real-Time OCT Image Segmentation and Correction for Robotic Needle Insertion Systems |
 | [2548](https://ras.papercept.net/proceedings/IROS20/2548.pdf) | PrimA6D: Rotational Primitive Reconstruction for Enhanced and Robust 6D Pose Estimation |
-| [2549](https://ras.papercept.net/proceedings/IROS20/2549.pdf) | Estimating an Objectï¿½s Inertial Parameters by Robotic Pushing: A Data-Driven Approach |
+| [2549](https://ras.papercept.net/proceedings/IROS20/2549.pdf) | Estimating an Object's Inertial Parameters by Robotic Pushing: A Data-Driven Approach |
 | [2550](https://ras.papercept.net/proceedings/IROS20/2550.pdf) | A Variable-Structure Robot Hand That Uses the Environment to Achieve General Purpose Grasps |
 | [2552](https://ras.papercept.net/proceedings/IROS20/2552.pdf) | Development of a Spherical 2-DOF Wrist Employing Spatial Parallelogram Structure |
 | [2553](https://ras.papercept.net/proceedings/IROS20/2553.pdf) | Milliscale Features Increase Friction of Soft Skin in Lubricated Contact |
@@ -1189,7 +1189,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [2693](https://ras.papercept.net/proceedings/IROS20/2693.pdf) | Spatiotemporal Calibration of Camera and 3D Laser Scanner |
 | [2696](https://ras.papercept.net/proceedings/IROS20/2696.pdf) | Towards In-Flight Transfer of Payloads between Multirotors |
 | [2699](https://ras.papercept.net/proceedings/IROS20/2699.pdf) | Coverage Path Planning with Track Spacing Adaptation for Autonomous Underwater Vehicles |
-| [2700](https://ras.papercept.net/proceedings/IROS20/2700.pdf) | Force-Ultrasound Fusion: Bringing Spine Robotic-US to the Next ï¿½Levelï¿½ |
+| [2700](https://ras.papercept.net/proceedings/IROS20/2700.pdf) | Force-Ultrasound Fusion: Bringing Spine Robotic-US to the Next 'Level' |
 | [2702](https://ras.papercept.net/proceedings/IROS20/2702.pdf) | Ultrasound-Guided Wireless Tubular Robotic Anchoring System |
 | [2704](https://ras.papercept.net/proceedings/IROS20/2704.pdf) | Optic Nerve Sheath Fenestration with a Multi-Arm Continuum Robot |
 | [2707](https://ras.papercept.net/proceedings/IROS20/2707.pdf) | Automatic Shape Control of Deformable Wires Based on Model-Free Visual Servoing |
@@ -1336,7 +1336,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [2952](https://ras.papercept.net/proceedings/IROS20/2952.pdf) | Vision and Force Based Autonomous Robotic Coating with Rollers |
 | [2953](https://ras.papercept.net/proceedings/IROS20/2953.pdf) | Model-Based Coupling for Co-Simulation of Robotic Contact Tasks |
 | [2954](https://ras.papercept.net/proceedings/IROS20/2954.pdf) | ECG: Edge-Aware Point Cloud Completion with Graph Convolution |
-| [2955](https://ras.papercept.net/proceedings/IROS20/2955.pdf) | Donï¿½t Forget the Past: Recurrent Depth Estimation from Monocular Video |
+| [2955](https://ras.papercept.net/proceedings/IROS20/2955.pdf) | Don't Forget the Past: Recurrent Depth Estimation from Monocular Video |
 | [2961](https://ras.papercept.net/proceedings/IROS20/2961.pdf) | AirCapRL: Autonomous Aerial Human Motion Capture Using Deep Reinforcement Learning |
 | [2962](https://ras.papercept.net/proceedings/IROS20/2962.pdf) | Model-Based Reinforcement Learning for Time-Optimal Velocity Control |
 | [2964](https://ras.papercept.net/proceedings/IROS20/2964.pdf) | Deep Reinforcement Learning for Tactile Robotics: Learning to Type on a Braille Keyboard |
@@ -1373,7 +1373,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [3016](https://ras.papercept.net/proceedings/IROS20/3016.pdf) | Modular, Accessible, Sensorized Objects for Evaluating the Grasping and Manipulation Capabilities of Grippers and Hands |
 | [3017](https://ras.papercept.net/proceedings/IROS20/3017.pdf) | Design, Modelling, and Implementation of a 7-DOF Cable-Driven Haptic Device with a Configurable Cable Platform |
 | [3019](https://ras.papercept.net/proceedings/IROS20/3019.pdf) | Asymptotically-Optimal Topological Nearest-Neighbor Filtering |
-| [3020](https://ras.papercept.net/proceedings/IROS20/3020.pdf) | Online Replanning with Human-In-The-Loop for Non-Prehensile Manipulation in Clutter ï¿½ a Trajectory Optimization Based Approach |
+| [3020](https://ras.papercept.net/proceedings/IROS20/3020.pdf) | Online Replanning with Human-In-The-Loop for Non-Prehensile Manipulation in Clutter ' a Trajectory Optimization Based Approach |
 | [3021](https://ras.papercept.net/proceedings/IROS20/3021.pdf) | Neural Manipulation Planning on Constraint Manifolds |
 | [3022](https://ras.papercept.net/proceedings/IROS20/3022.pdf) | Piezoelectric Grippers for Mobile Micromanipulation |
 | [3023](https://ras.papercept.net/proceedings/IROS20/3023.pdf) | Stable In-Grasp Manipulation with a Low-Cost Robot Hand by Using 3-Axis Tactile Sensors with a CNN |
@@ -1396,11 +1396,11 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [3053](https://ras.papercept.net/proceedings/IROS20/3053.pdf) | Learn by Observation: Imitation Learning for Drone Patrolling from Videos of a Human Navigator |
 | [3056](https://ras.papercept.net/proceedings/IROS20/3056.pdf) | Lidar Essential Beam Model for Accurate Width Estimation of Thin Poles |
 | [3060](https://ras.papercept.net/proceedings/IROS20/3060.pdf) | Invariant Transform Experience Replay: Data Augmentation for Deep Reinforcement Learning |
-| [3061](https://ras.papercept.net/proceedings/IROS20/3061.pdf) | Imitation Learning Based on Bilateral Control for Humanï¿½Robot Cooperation |
+| [3061](https://ras.papercept.net/proceedings/IROS20/3061.pdf) | Imitation Learning Based on Bilateral Control for Human'Robot Cooperation |
 | [3063](https://ras.papercept.net/proceedings/IROS20/3063.pdf) | Autonomous Tissue Retraction in Robotic Assisted Minimally Invasive Surgery - A Feasibilty Study |
 | [3064](https://ras.papercept.net/proceedings/IROS20/3064.pdf) | 6-Axis Force/Torque Sensor with a Novel Autonomous Weight Compensating Capability for Robotic Applications |
 | [3066](https://ras.papercept.net/proceedings/IROS20/3066.pdf) | Multi-Fingered Grasp Planning Via Inference in Deep Neural Networks |
-| [3067](https://ras.papercept.net/proceedings/IROS20/3067.pdf) | Collision Avoidance in Human-Robot Interaction Using Kinect Vision System Combined with Robotï¿½s Model and Data |
+| [3067](https://ras.papercept.net/proceedings/IROS20/3067.pdf) | Collision Avoidance in Human-Robot Interaction Using Kinect Vision System Combined with Robot's Model and Data |
 | [3068](https://ras.papercept.net/proceedings/IROS20/3068.pdf) | Miniaturized robotics: The smallest camera operator bot pays tribute to David Bowie. |
 | [3070](https://ras.papercept.net/proceedings/IROS20/3070.pdf) | Development of Δ-Type Mobile Robot Driven by 3 Standing Wave Type Piezoelectric Ultrasonic Motors |
 | [3072](https://ras.papercept.net/proceedings/IROS20/3072.pdf) | Lyapunov-Stable Orientation Estimator for Humanoid Robots |
@@ -1528,7 +1528,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), [泡泡机
 | [3712](https://ras.papercept.net/proceedings/IROS20/3712.pdf) | Service robot teaching assistant in school class-room |
 | [3713](https://ras.papercept.net/proceedings/IROS20/3713.pdf) | Infant abnormal behavior classification through weakly supervised learning |
 | [3714](https://ras.papercept.net/proceedings/IROS20/3714.pdf) | Amusing Androids: The Argument for Humour in Healthcare Robotics |
-| [3715](https://ras.papercept.net/proceedings/IROS20/3715.pdf) | Towards Explainable Diagnosis of Alzheimerï¿½s |
+| [3715](https://ras.papercept.net/proceedings/IROS20/3715.pdf) | Towards Explainable Diagnosis of Alzheimer's |
 | [3716](https://ras.papercept.net/proceedings/IROS20/3716.pdf) | VOTE400(Voide Of The Elderly 400 Hours): A Speech Dataset to Study Voice Interface for Elderly-Care |
 | [3717](https://ras.papercept.net/proceedings/IROS20/3717.pdf) | Toward a Reinforcement Learning Based Framework for Learning Cognitive Empathy in Human-Robot Interactions |
 | [3718](https://ras.papercept.net/proceedings/IROS20/3718.pdf) | Improve identity recognition with occlusion detection-based feature selection |
